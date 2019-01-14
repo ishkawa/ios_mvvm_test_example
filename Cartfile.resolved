@@ -1,0 +1,4 @@
+github "ReactiveX/RxSwift" "4.4.0"
+github "antitypical/Result" "4.1.0"
+github "ishkawa/DIKit" "0.4.0"
+github "ishkawa/DataSourceKit" "0.2.0"

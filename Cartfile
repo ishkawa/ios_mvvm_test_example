@@ -1,0 +1,4 @@
+github "ReactiveX/RxSwift" ~> 4.4
+github "ishkawa/DataSourceKit" ~> 0.2
+github "ishkawa/DIKit" ~> 0.4
+
